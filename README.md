@@ -1,11 +1,11 @@
 ## Latihan
-Untuk latihan kali ini merubah dari fungsi ke lambda Ada 4 fungsi yang harus dirubah ke lambda
-Perhatikan Soal Berikut Soal
+# Untuk latihan kali ini merubah dari fungsi ke lambda Ada 4 fungsi yang harus dirubah ke lambda
+Perhatikan Soal Berikut
+![Soal](Gambar/Soallatihan.PNG)
 
-dan ini hasil dari source code diatas
-
-```phyton
-#Badof
+dan ini hasil dari source code diatas 
+```python
+#rizkyz
 print("________________________________________")
 #mengubah function menggunakan lambda
 def a(x):
@@ -44,22 +44,23 @@ print("4. Mengubah function menggunakan Lambda \n   def d(s): \n \t   return "".
 print("   Hasil : lambda s: "".join(set(s)))")
 
 ```
+Disini saya sudah rubah ke lambda Kalau di Tugas Latihan tidak ada outputnya, tp disini saya akan berikan contoh untuk output dari source code tersebut
+Berikut outputnya
 
-*Disini saya sudah rubah ke lambda Kalau di Tugas Latihan tidak ada outputnya, tp disini saya akan berikan contoh untuk output dari source code tersebut Berikut outputnya
+![hasil](Gambar/hasil%20latihan.PNG)
+ * Dalam Hasil INPUTAN Diatas Ialah hasil dari proses lambda
+ 
+ ## Tugas Praktikum
+ * Selain tugas latihan yang diberikan oleh dosen, saya juga diberi tugas praktikum oleh Dosen. Yaitu membuat progam sederhana menggunakan fungsi. Yang menampilkan Data Mahasiswa.  
 
-hasil
+ ![hasil](Gambar/hasillatihan.png)
+ 
+* Seperti biasa, setelah saya membaca serta memahami materi yang berikan oleh dosen dan mencari referensi tambahan dari Internet, akhirnya saya bisa mengerjakan tugas pertemuan 10 (Tugas Praktikum).
 
-*Dalam Hasil INPUTAN Diatas Ialah hasil dari proses lambda
-Tugas Praktikum
-Selain tugas latihan yang diberikan oleh dosen, saya juga diberi tugas praktikum oleh Dosen. Yaitu membuat progam sederhana menggunakan fungsi. Yang menampilkan Data Mahasiswa.
-hasil
+* Inilah source code dari program sederhana saya :
 
-*Seperti biasa, setelah saya membaca serta memahami materi yang berikan oleh dosen dan mencari referensi tambahan dari Internet, akhirnya saya bisa mengerjakan tugas pertemuan 10 (Tugas Praktikum).
-
-Inilah source code dari program sederhana saya :
-
-```phyton
-## Badof
+``` python
+## RizkyyCo
 data = {}
 
 def tambah():
@@ -155,27 +156,42 @@ while True:
         print("<><><><><><><><><><><><><><><><>")
 ```
 
-*Pada tugas praktikum saya menggunakan fitur function yang ada di Python. Dan menggunakan media penyimpanan data berupa Dictionary Saya akan menjelaskan dikit mengenai fitur-fitur yang ada dalam program sederhana saya. Ketika program di run pada pertama kali, maka akan muncul tampilan seperti ini :
-hasil
+* Pada tugas praktikum saya menggunakan fitur function yang ada di Python. Dan menggunakan media penyimpanan data berupa Dictionary
+Saya akan menjelaskan dikit mengenai fitur-fitur yang ada dalam program sederhana saya.
+Ketika program di run pada pertama kali, maka akan muncul tampilan seperti ini :
 
-Terdapat 5 Pilihan menu, yaitu :
-1 Tambah Data 2 Lihat Data 3 Ubah Data 4 Hapus Data 0 Keluar Aplikasi
+![hasil](Gambar/hasilmenu.png)
+   
+    Terdapat 5 Pilihan menu, yaitu :
 
-Lihat Data Nilai Mahasiswa
-System akan menjalankan fitur ini ketika user mengetikkan perintah 2 pada pilihan Pilih Menu (1-2-3-4-5) Inilah tampilan fitur Lihat Data : hasil
+   1 Tambah Data
+   2 Lihat Data
+   3 Ubah Data
+   4 Hapus Data
+   0 Keluar Aplikasi
 
-*Menambahkan Data <br>
+* Lihat Data Nilai Mahasiswa<br>
+System akan menjalankan fitur ini ketika user mengetikkan perintah 2 pada pilihan Pilih Menu (1-2-3-4-5)
+Inilah tampilan fitur Lihat Data :
+![hasil](gambar/lihatdata.PNG)
 
-hasil
+* Menambahkan Data <br>
 
-ubah data
-Pada fitur ini user akan diminta untuk memilih data siapa yang akan diubah dan data apa yang akan dirubah Setelah user memilih data, Misalnya user ingin merubah NIM dari mahasiswa dengan nama rizky , Maka akan muncul tampilan seperti ini : hasil
+![hasil](Gambar/tambahdata.png)
 
-Fitur Hapus Data Nilai Mahasiswa
-System akan menjalankan fitur ini ketika user mengetikkan perintah 4 pada pilihan Pilih Menu (1-2-3-4-5) Sebelum saya menjalankan fitur ini, saya akan menambahkan 1 data lagi dengan nama rizkyyz
+* ubah data <br> 
+Pada fitur ini user akan diminta untuk memilih data siapa yang akan diubah dan data apa yang akan dirubah
+Setelah user memilih data, Misalnya user ingin merubah NIM dari mahasiswa dengan nama rizky , Maka akan muncul tampilan seperti ini :
+![hasil](Gambar/Ubah%20Data.PNG)
 
-hasil
+* Fitur Hapus Data Nilai Mahasiswa <br>
+System akan menjalankan fitur ini ketika user mengetikkan perintah 4 pada pilihan Pilih Menu (1-2-3-4-5)
+Sebelum saya menjalankan fitur ini, saya akan menambahkan 1 data lagi dengan nama rizkyyz
 
-FLOWCHART
-Dan terakhir adalah Hasil Dari Flowchart
-flowchart
+![hasil](Gambar/hapusdata.png)
+
+## FLOWCHART
+
+* Dan terakhir adalah Hasil Dari Flowchart 
+
+![flowchart](Gambar/flowchart.png)
