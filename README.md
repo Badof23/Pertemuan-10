@@ -173,7 +173,7 @@ Ketika program di run pada pertama kali, maka akan muncul tampilan seperti ini :
 * Lihat Data Nilai Mahasiswa<br>
 System akan menjalankan fitur ini ketika user mengetikkan perintah 2 pada pilihan Pilih Menu (1-2-3-4-5)
 Inilah tampilan fitur Lihat Data :
-![hasil](gambar/lihatdata.PNG)
+![hasil](Gambar/lihat$20data.PNG)
 
 * Menambahkan Data <br>
 
