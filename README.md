@@ -160,7 +160,7 @@ while True:
 Saya akan menjelaskan dikit mengenai fitur-fitur yang ada dalam program sederhana saya.
 Ketika program di run pada pertama kali, maka akan muncul tampilan seperti ini :
 
-![hasil](Gambar/Hasil%20Latihan.PNG)
+![hasil](Gambar/lihat%20data.PNG)
    
     Terdapat 5 Pilihan menu, yaitu :
 
