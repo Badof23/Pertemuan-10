@@ -1,7 +1,7 @@
 ## Latihan
 # Untuk latihan kali ini merubah dari fungsi ke lambda Ada 4 fungsi yang harus dirubah ke lambda
 Perhatikan Soal Berikut
-![Soal](Gambar/Soallatihan.PNG)
+![Soal](Gambar/Soallatihan.png)
 
 dan ini hasil dari source code diatas 
 ```python
@@ -160,7 +160,7 @@ while True:
 Saya akan menjelaskan dikit mengenai fitur-fitur yang ada dalam program sederhana saya.
 Ketika program di run pada pertama kali, maka akan muncul tampilan seperti ini :
 
-![hasil](Gambar/hasilmenu.png)
+![hasil](Gambar/Hasil%20Latihan.PNG)
    
     Terdapat 5 Pilihan menu, yaitu :
 
@@ -177,7 +177,7 @@ Inilah tampilan fitur Lihat Data :
 
 * Menambahkan Data <br>
 
-![hasil](Gambar/tambahdata.png)
+![hasil](Gambar/Tambah$20Data.PNG)
 
 * ubah data <br> 
 Pada fitur ini user akan diminta untuk memilih data siapa yang akan diubah dan data apa yang akan dirubah
@@ -188,7 +188,7 @@ Setelah user memilih data, Misalnya user ingin merubah NIM dari mahasiswa dengan
 System akan menjalankan fitur ini ketika user mengetikkan perintah 4 pada pilihan Pilih Menu (1-2-3-4-5)
 Sebelum saya menjalankan fitur ini, saya akan menambahkan 1 data lagi dengan nama rizkyyz
 
-![hasil](Gambar/hapusdata.png)
+![hasil](Gambar/Hapus%20data.PNG)
 
 ## FLOWCHART
 
