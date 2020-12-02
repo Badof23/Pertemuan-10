@@ -177,8 +177,7 @@ Inilah tampilan fitur Lihat Data :
 
 * Menambahkan Data <br>
 
-![hasil](Gambar/Tambah$20Data.PNG)
-
+![hasil](gambar/lihat%20data.PNG)
 * ubah data <br> 
 Pada fitur ini user akan diminta untuk memilih data siapa yang akan diubah dan data apa yang akan dirubah
 Setelah user memilih data, Misalnya user ingin merubah NIM dari mahasiswa dengan nama rizky , Maka akan muncul tampilan seperti ini :
