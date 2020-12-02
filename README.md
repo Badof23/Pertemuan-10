@@ -60,7 +60,7 @@ Berikut outputnya
 * Inilah source code dari program sederhana saya :
 
 ``` python
-## RizkyyCo
+## badoo
 data = {}
 
 def tambah():
