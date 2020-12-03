@@ -5,7 +5,7 @@ Perhatikan Soal Berikut
 
 dan ini hasil dari source code diatas 
 ```python
-#rizkyz
+#Badof
 print("________________________________________")
 #mengubah function menggunakan lambda
 def a(x):
